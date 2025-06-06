@@ -1,0 +1,7 @@
+{
+    "name": "caja98/backend",
+    "description": "Dependencias php",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
