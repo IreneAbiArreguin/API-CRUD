@@ -135,6 +135,6 @@ Desarrollado con PHP (backend), Vue 3 (frontend) y MySQL, orquestado con Docker.
 
 ## Créditos
 
-Desarrollado por [Tu Nombre]  
-Escuela: [Nombre de la escuela o materia]  
-Fecha: Mayo 2025
+Desarrollado por Sergio Garcia, Daris Martinez e Irene Arreguin 
+Escuela: ITCH
+Fecha: 30/05/2025
